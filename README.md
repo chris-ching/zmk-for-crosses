@@ -1,1 +1,1 @@
-zmk-config for Crosses36
+zmk-config for Crosses36 
